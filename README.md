@@ -1,7 +1,7 @@
 # Blaize Security Reports
 Public security reports for 2023<br><br>
 See full cases on [Blaize Security cases page](https://blaize.tech/clients/?_sft_clientcat=security-audit)<br>
-See public reports for 2022 on [Blaize Security reports for 2022](previous-years-reports/Blaize-public-reports-2022.md)<br>
+See public reports for 2020-2022 on [Blaize Security reports for 2022](previous-years-reports/Blaize-public-reports-2022.md)<br>
 <br>
 Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecurity)
 <br>

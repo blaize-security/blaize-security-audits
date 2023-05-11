@@ -10,7 +10,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
 | <b>Binaryx</b> | Security [Audit Report](b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf) | Solidity | Polygon | 22 Mar 2023 | 24 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/) |
 | <b>Cupcake</b> | Security [Audit Report](c/cupcake/Cupcake-audit-report-v1-[5-Jan-2023].pdf) | Solidity | Ethereum | 5 Jan 2023 | 2 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/) |
-| <b>Everdues</b> | Security [Audit Report](e/everdues/Everdues-audit-report-v1-[4-May-2023].pdf) | Solidity | Ethereum | 4 May 2023 | | |
+| <b>Everdues</b> | Security [Audit Report](e/everdues/Everdues-audit-report-v1-[4-May-2023].pdf) | Solidity | Ethereum, BNB Chain, Polygon | 4 May 2023 | 11 May 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-everdues/) |
 | <b>Everstake</b> (B2B) | Security [Audit Report](e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf) | Solidity | Ethereum | 10 Mar 2023 | 30 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-everstake/) |
 | <b>Everstake</b> (B2C) | Security [Audit Report](e/everstake/Everstake-B2C-audit-report-v1-[2-May-2023].pdf) | Solidity | Ethereum | 2 May 2023 | | |
 | <b>Gerobi</b> | Security [Audit Report](g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf) | Solidity | Aurora | 27 Mar 2023 | 9 Apr 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/) |

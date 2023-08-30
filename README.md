@@ -8,7 +8,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 
 | Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
-| <b>01node</b> | Security [Audit Report](0/01node/01node-audit-report-v1-[22-Aug-2023].pdf) | Solidity | Ethereum | 22 Aug 2023 | 29 Aug 2023 | [Case]() |
+| <b>01node</b> | Security [Audit Report](0/01node/01node-audit-report-v1-[22-Aug-2023].pdf) | Solidity | Ethereum | 22 Aug 2023 | 30 Aug 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-01node/) |
 | <b>Binaryx</b> | Security [Audit Report](b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf) | Solidity | Polygon | 22 Mar 2023 | 24 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/) |
 | <b>Cupcake</b> | Security [Audit Report](c/cupcake/Cupcake-audit-report-v1-[5-Jan-2023].pdf) | Solidity | Ethereum | 5 Jan 2023 | 2 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-cupcake-nft-app/) |
 | <b>Everdues</b> | Security [Audit Report](e/everdues/Everdues-audit-report-v1-[4-May-2023].pdf) | Solidity | Ethereum, BNB Chain, Polygon | 4 May 2023 | 11 May 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-everdues/) |

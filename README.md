@@ -24,6 +24,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Liquid Access NFT</b> | V2 SC Security [Audit Report](l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf) | Solidity | Ethereum | 10 Feb 2023 | 23 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/) |
 | <b>Lockon Finance</b> | SC Security [Audit Report](l/lockon-finance/Lockon-audit-report-[7-July-2023].pdf) | Solidity | Polygon | 7 July 2023 | 12 July 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-lockon-finance/) |
 | <b>OceanMoney</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 30 Jun 2023 |  | Case (Confidential) |
+| <b>StarkDeFi</b> | SC Security Audit Report (Confidential) | Cairo | StarkDeFi | 29 Sep 2023 |  | Case (Confidential) |
 | <b>Sui TS SDK</b> (by Mysten Labs) | SDK Security Audit Report (Confidential) | TypeScript | SUI | 4 Sep 2023 |  | Case (Confidential) |
 | <b>Synapse Bridge</b> (by <b>Humans</b>) | Bridge Security Audit Report (Confidential) | Solidity, JS | Ethereum, Humans | 4 September 2023 | | Case (Confidential) |
 | <b>Synthex</b> | SC Security [Audit Report](s/synthex/Synthex-audit-report-v1-[16-Mar-2023].pdf) | Solidity | Arbitrum | 16 Mar 2023 | 20 Apr 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-synthex/) |

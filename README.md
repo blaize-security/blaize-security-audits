@@ -25,7 +25,8 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Lockon Finance</b> | SC Security [Audit Report](l/lockon-finance/Lockon-audit-report-[7-July-2023].pdf) | Solidity | Polygon | 7 July 2023 | 12 July 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-lockon-finance/) |
 | <b>OceanMoney</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 30 Jun 2023 |  | Case (Confidential) |
 | <b>Rainbow Bridge</b> (by Aurora) | Bridge Security [Audit Report](a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf) | Solidity, Rust | Ethereum, NEAR | 5 Oct 2022 | 14 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/) |
-| <b>StarkDeFi</b> | SC Security Audit Report (Confidential) | Cairo | StarkNet | 29 Sep 2023 |  | Case (Confidential) |
+| <b>StarkDeFi</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 29 Sep 2023 |  |  |
+| <b>StarkDeFi</b> | V2 SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 20 Oct 2023 |  |  |
 | <b>Sui Multisig</b> (by Mysten Labs) | SDK Security Audit Report (Confidential) | Rust | SUI | 9 Oct 2023 |  | Case (Confidential) |
 | <b>Sui TS SDK</b> (by Mysten Labs) | SDK Security Audit Report (Confidential) | TypeScript | SUI | 4 Sep 2023 |  | Case (Confidential) |
 | <b>Synapse Bridge</b> (by <b>Humans</b>) | Bridge Security Audit Report (Confidential) | Solidity, JS | Ethereum, Humans | 4 September 2023 | | Case (Confidential) |
@@ -35,3 +36,6 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Unigrid</b> | SC Security [Audit Report](u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf) | Solidity | Ethereum | 27 Sep 2023 | 10 Oct 2023 | |
 | <b>Veritty</b> | SC Security [Audit Report](v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf) | Solidity | Ethereum | 29 Mar 2023 | | |
 | <b>WaveLength DAO</b> | SC Security Audit Report (Confidential) | Solidity | Velas | 18 Jul 2023 |  | Case (Confidential) |
+
+
+s/starkdefi/StarkDeFi-audit report-v2-[23-Oct-2023].pdf

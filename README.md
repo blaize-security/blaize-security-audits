@@ -36,6 +36,3 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Unigrid</b> | SC Security [Audit Report](u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf) | Solidity | Ethereum | 27 Sep 2023 | 10 Oct 2023 | |
 | <b>Veritty</b> | SC Security [Audit Report](v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf) | Solidity | Ethereum | 29 Mar 2023 | | |
 | <b>WaveLength DAO</b> | SC Security Audit Report (Confidential) | Solidity | Velas | 18 Jul 2023 |  | Case (Confidential) |
-
-
-s/starkdefi/StarkDeFi-audit report-v2-[23-Oct-2023].pdf

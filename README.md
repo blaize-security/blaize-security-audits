@@ -19,7 +19,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Everstake</b> (B2B) | SC Security [Audit Report](e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf) | Solidity | Ethereum | 10 Mar 2023 | 30 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-everstake/) |
 | <b>Everstake</b> (B2C) | SC Security [Audit Report](e/everstake/Everstake-B2C-audit-report-v1-[2-May-2023].pdf) | Solidity | Ethereum | 2 May 2023 | 16 May 2023 | [Case](https://blaize.tech/clients/the-second-smart-contract-security-audit-for-everstake/) |
 | <b>Flair</b> | SC Security Audit Report (Confidential) | Solidity | Avalanche | 11 Apr 2023 |  | Case (Confidential) |
-| <b>Fortifi</b> | SC Security Audit Report (Confidential) | Solidity | Avalanche | 24 Oct 2023 |  | Case (Confidential) |
+| <b>Fortifi</b> | SC Security [Audit Report](f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf) | Solidity | Avalanche | 24 Oct 2023 |  |  |
 | <b>Gerobi</b> | SC Security [Audit Report](g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf) | Solidity | Aurora | 27 Mar 2023 | 9 Apr 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/) |
 | <b>Kale Bridge</b> (by Bluelight) | SC Security [Audit Report](b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf) | Solidity | Ethereum | 30 Jan 2023 | 16 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-bluelight-kale-bridge/) |
 | <b>Liquid Access NFT</b> | V2 SC Security [Audit Report](l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf) | Solidity | Ethereum | 10 Feb 2023 | 23 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/) |

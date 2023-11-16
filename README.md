@@ -9,6 +9,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
 | <b>01node</b> | SC Security [Audit Report](0/01node/01node-audit-report-v1-[22-Aug-2023].pdf) | Solidity | Ethereum | 22 Aug 2023 | 30 Aug 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-01node/) |
+| <b>Alfred</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Nov 2023 |  | Case (Confidential) |
 | <b>AraFi</b> | SC Security Audit Report (Confidential) | Solidity | Metis | 30 Aug 2023 |  | Case (Confidential) |
 | <b>Asteroid Diner</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 24 Apr 2023 |  | Case (Confidential) |
 | <b>Binaryx</b> | SC Security [Audit Report](b/binaryx/Binaryx-audit-report-v1-[22-Mar-2023].pdf) | Solidity | Polygon | 22 Mar 2023 | 24 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-binaryx/) |
@@ -19,21 +20,25 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Everstake</b> (B2B) | SC Security [Audit Report](e/everstake/Everstake-audit-report-v1-[10-Mar-2023].pdf) | Solidity | Ethereum | 10 Mar 2023 | 30 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-everstake/) |
 | <b>Everstake</b> (B2C) | SC Security [Audit Report](e/everstake/Everstake-B2C-audit-report-v1-[2-May-2023].pdf) | Solidity | Ethereum | 2 May 2023 | 16 May 2023 | [Case](https://blaize.tech/clients/the-second-smart-contract-security-audit-for-everstake/) |
 | <b>Flair</b> | SC Security Audit Report (Confidential) | Solidity | Avalanche | 11 Apr 2023 |  | Case (Confidential) |
-| <b>Fortifi</b> | SC Security [Audit Report](f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf) | Solidity | Avalanche | 24 Oct 2023 |  |  |
+| <b>Fortifi</b> | SC Security [Audit Report](f/fortifi/FortiFi-audit-report-[26-Oct-2023].pdf) | Solidity | Avalanche | 24 Oct 2023 | 2 Nov 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-fortifi/) |
 | <b>Gerobi</b> | SC Security [Audit Report](g/gerobi/Gerobi-audit-report-v1-[27-Mar-2023].pdf) | Solidity | Aurora | 27 Mar 2023 | 9 Apr 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-gerobi/) |
 | <b>Kale Bridge</b> (by Bluelight) | SC Security [Audit Report](b/bluelight/KaleBridge-audit-report-v1-[30-Jan-2023].pdf) | Solidity | Ethereum | 30 Jan 2023 | 16 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-bluelight-kale-bridge/) |
 | <b>Liquid Access NFT</b> | V2 SC Security [Audit Report](l/liquidaccess/LiquidAccessNFT-audit-report-v2-[10-Feb-2023].pdf) | Solidity | Ethereum | 10 Feb 2023 | 23 Feb 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-liquidaccess/) |
 | <b>Lockon Finance</b> | SC Security [Audit Report](l/lockon-finance/Lockon-audit-report-[7-July-2023].pdf) | Solidity | Polygon | 7 July 2023 | 12 July 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-lockon-finance/) |
 | <b>OceanMoney</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 30 Jun 2023 |  | Case (Confidential) |
+| <b>Promethium</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum |  |  | Case (Confidential) |
+| <b>Promethium</b> (Rebalancer) | Backend Security Audit Report (Confidential) | JS | Ethereum |  |  | Case (Confidential) |
+| <b>Purse Token</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 20 Nov 2023 |  | Case (Confidential) |
 | <b>Rainbow Bridge</b> (by Aurora) | Bridge Security [Audit Report](a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf) | Solidity, Rust | Ethereum, NEAR | 5 Oct 2022 | 14 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/) |
-| <b>StarkDeFi</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 29 Sep 2023 |  |  |
+| <b>RedArena</b> | SC Security Audit Report (Confidential) | Solidity | Avalanche |  |  | Case (Confidential) |
+| <b>StarkDeFi</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 29 Sep 2023 | 24 Oct 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/) |
 | <b>StarkDeFi</b> | V2 SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 20 Oct 2023 | 24 Oct 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/) |
-| <b>Sui Multisig</b> (by Mysten Labs) | SDK Security Audit Report (Confidential) | Rust | SUI | 9 Oct 2023 |  | Case (Confidential) |
-| <b>Sui TS SDK</b> (by Mysten Labs) | SDK Security Audit Report (Confidential) | TypeScript | SUI | 4 Sep 2023 |  | Case (Confidential) |
+| <b>Sui Multisig</b> (by Mysten Labs) | SDK Security Audit Report | Rust | SUI | 9 Oct 2023 | 3 Nov 2023 | [Case](https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/) |
+| <b>Sui TS SDK</b> (by Mysten Labs) | SDK Security Audit Report | TypeScript | SUI | 4 Sep 2023 | 3 Nov 2023 | [Case](https://blaize.tech/clients/multisig-and-sdk-security-audits-for-mysten-labs/) |
 | <b>Synapse Bridge</b> (by <b>Humans</b>) | Bridge Security Audit Report (Confidential) | Solidity, JS | Ethereum, Humans | 4 September 2023 | | Case (Confidential) |
 | <b>Synthex</b> | SC Security [Audit Report](s/synthex/Synthex-audit-report-v1-[16-Mar-2023].pdf) | Solidity | Arbitrum | 16 Mar 2023 | 20 Apr 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-synthex/) |
 | <b>Title Deeds CEX</b> (by Viewpoint) | SC Security [Audit Report](v/viewpoint/TitleDeedsCEX-audit-report-v1-[13-Feb-2023].pdf) | Solidity | Ethereum, BNB Chain | 13 Feb 2023 | 1 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-title-deeds-cex-by-viewpoint-labs/) |
 | <b>TokenDeal</b> | SC Security [Audit Report](t/tokendeal/TokenDeal-audit-report-v1-[24-Feb-2023].pdf) | Solidity | Ethereum | 24 Feb 2023 | 21 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-tokendeal-protocol-for-nft-sales/) |
-| <b>Unigrid</b> | SC Security [Audit Report](u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf) | Solidity | Ethereum | 27 Sep 2023 | 10 Oct 2023 | |
+| <b>Unigreed</b> | SC Security [Audit Report](u/unigrid/Unigrid-audit-report-v1-[27-Sep-2023].pdf) | Solidity | Ethereum | 27 Sep 2023 | 10 Oct 2023 | |
 | <b>Veritty</b> | SC Security [Audit Report](v/veritty/Veritty-audit-report-v1-[29-Mar-2023].pdf) | Solidity | Ethereum | 29 Mar 2023 | | |
 | <b>WaveLength DAO</b> | SC Security Audit Report (Confidential) | Solidity | Velas | 18 Jul 2023 |  | Case (Confidential) |

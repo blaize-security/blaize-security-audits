@@ -28,7 +28,6 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>OceanMoney</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 30 Jun 2023 |  | Case (Confidential) |
 | <b>Promethium</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum |  |  | Case (Confidential) |
 | <b>Promethium</b> (Rebalancer) | Backend Security Audit Report (Confidential) | JS | Ethereum |  |  | Case (Confidential) |
-| <b>Purse Token</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 20 Nov 2023 |  | Case (Confidential) |
 | <b>Rainbow Bridge</b> (by Aurora) | Bridge Security [Audit Report](a/aurora/RainbowBridge-audit-report-v1-[5-Oct-2022].pdf) | Solidity, Rust | Ethereum, NEAR | 5 Oct 2022 | 14 Mar 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-rainbow-bridge-by-aurora/) |
 | <b>RedArena</b> | SC Security Audit Report (Confidential) | Solidity | Avalanche |  |  | Case (Confidential) |
 | <b>StarkDeFi</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-audit-report-v2-[23-Oct-2023].pdf) | Cairo | StarkNet | 29 Sep 2023 | 24 Oct 2023 | [Case](https://blaize.tech/clients/smart-contract-security-audits-for-starkdefi/) |

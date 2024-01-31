@@ -1,10 +1,18 @@
 # Blaize Security Reports
-Public security reports for 2023<br><br>
+Public security reports for 2023-2024<br><br>
 See full cases on [Blaize Security cases page](https://blaize.tech/clients/?_sft_clientcat=security-audit)<br>
 See public reports for 2020-2022 on [Blaize Security reports for 2022](previous-years-reports/Blaize-public-reports-2022.md)<br>
 <br>
 Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecurity)
 <br>
+
+## Cases 2024
+| Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
+| --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
+| <b>Avax Apes</b> | SC Security [Audit Report](a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf) | Solidity | Avalanche | 25 Jan 2024 | 31 Jan 2024 | |
+
+
+## Cases 2023
 
 | Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|

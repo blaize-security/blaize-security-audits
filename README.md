@@ -9,6 +9,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 ## Cases 2024
 | Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
+| <b>Alfred</b> | V3 SC Security Audit Report (Confidential) | Solidity | Ethereum | 30 Jan 2023 |  | Case (Confidential) |
 | <b>Avax Apes</b> | SC Security [Audit Report](a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf) | Solidity | Avalanche | 25 Jan 2024 | 31 Jan 2024 | |
 
 

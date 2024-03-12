@@ -11,6 +11,9 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
 | <b>Alfred</b> | V3 SC Security Audit Report (Confidential) | Solidity | Ethereum | 30 Jan 2023 |  | Case (Confidential) |
 | <b>Avax Apes</b> | SC Security [Audit Report](a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf) | Solidity | Avalanche | 25 Jan 2024 | 31 Jan 2024 | |
+| <b>Blockus</b> | SC Security [Audit Report](b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf) | Move | Sui | 11 Feb 2024 |  |  |
+| <b>Rumi</b> | SC Security Audit Report (Confidential) | Solidity | Arbitrum | 28 Feb 2024 |  | Case (Confidential) |
+| <b>StarkDeFi (Locker)</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-Locker-audit-report-[19-Feb-2024].pdf) | Cairo | StarkNet | 16 Feb 2024 | 20 Feb 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/) |
 
 
 ## Cases 2023

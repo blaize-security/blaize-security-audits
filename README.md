@@ -16,6 +16,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol Security [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case]() |
 | <b>EMoney (by Scallop)</b> | SC Security Review (Confidential) | Solidity | Polygon | 16 Apr 2024 |  |  |
 | <b>Karrat</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Apr 2024 |  |  |
+| <b>LFIT</b> | SC Security [Audit Report](l/lfit/LFIT-audit-report-[21-Jun-2024].pdf) | Solidity | Klaytn | 21 Jun 2024 | 25 Jun 2024 |  |
 | <b>Rumi</b> | SC Security Audit Report (Confidential) | Solidity | Arbitrum | 28 Feb 2024 |  | Case (Confidential) |
 | <b>Smoofs</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 25 Mar 2024 | 29 Mar 2024 | Case (Confidential) |
 | <b>Smoofs</b> | Patching by Security Team (Confidential) | Solidity | Polygon | 2 Apr 2024 | | Case (Confidential) |

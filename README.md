@@ -14,7 +14,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Blockus (NFT for Skale)</b> | SC Security Audit Report (Confidential) | Solidity | Skale | 31 May 2024 |  |  |
 | <b>Blockus (NFT for Sui)</b> | SC Security [Audit Report](b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf) | Move | Sui | 11 Mar 2024 | 21 Mar 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-blockus/) |
 | <b>Blockus (Splitter)</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 14 Apr 2024 |  |  |
-| <b>Digital Original</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 27 Jun 2024 |  |  |
+| <b>Digital Original</b> | SC Security [Audit Report](d/digitaloriginal/DigitalOriginal-audit-report-[28-Jun-2024].pdf) | Solidity | Ethereum | 28 Jun 2024 |  |  |
 | <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case]() |
 | <b>E Money (by Scallop)</b> | SC Security Review (Confidential) | Solidity | Polygon | 16 Apr 2024 |  |  |
 | <b>E Money Network (by Scallop)</b> | Blockchain Protocol Audit (Confidential) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |

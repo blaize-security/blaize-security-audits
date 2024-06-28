@@ -13,6 +13,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Avax Apes</b> | SC Security [Audit Report](a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf) | Solidity | Avalanche | 25 Jan 2024 | 31 Jan 2024 | Case (Confidential) |
 | <b>Blockus (NFT for Sui)</b> | SC Security [Audit Report](b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf) | Move | Sui | 11 Mar 2024 | 21 Mar 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-blockus/) |
 | <b>Blockus (Splitter)</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 14 Apr 2024 |  |  |
+| <b>Digital Original</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 25 Jun 2024 |  |  |
 | <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol Security [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case]() |
 | <b>EMoney (by Scallop)</b> | SC Security Review (Confidential) | Solidity | Polygon | 16 Apr 2024 |  |  |
 | <b>Karrat</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Apr 2024 |  |  |

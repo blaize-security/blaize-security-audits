@@ -17,9 +17,9 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Digital Original</b> | SC Security [Audit Report](d/digitaloriginal/DigitalOriginal-audit-report-[28-Jun-2024].pdf) | Solidity | Ethereum | 28 Jun 2024 |  |  |
 | <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case]() |
 | <b>E Money (by Scallop)</b> | SC Security Review (Confidential) | Solidity | Polygon | 16 Apr 2024 |  |  |
-| <b>E Money Network (by Scallop)</b> | Blockchain Protocol Audit (Confidential) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
-| <b>E Money Network (by Scallop)</b> | Post-audit patching (Confidential) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
-| <b>E Money Network (by Scallop)</b> | Secure CI/CD Integration (Confidential) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Blockchain Protocol [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Post-audit patching - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Secure CI/CD Integration - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
 | <b>E Money Network (by Scallop)</b> | Patching by Security Team (Confidential) | Golang | Cosmos, Evmos | 27 Jun 2024 | | |
 | <b>Karrat</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Apr 2024 |  |  |
 | <b>LFIT</b> | SC Security [Audit Report](l/lfit/LFIT-audit-report-[21-Jun-2024].pdf) | Solidity | Klaytn | 21 Jun 2024 | 25 Jun 2024 |  |

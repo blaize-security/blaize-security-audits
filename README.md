@@ -28,7 +28,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Smoofs</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 25 Mar 2024 | 29 Mar 2024 | Case (Confidential) |
 | <b>Smoofs</b> | Patching by Security Team (Confidential) | Solidity | Polygon | 2 Apr 2024 | | Case (Confidential) |
 | <b>StarkDeFi (Locker)</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-Locker-audit-report-[19-Feb-2024].pdf) | Cairo | StarkNet | 16 Feb 2024 | 20 Feb 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/) |
-
+| <b>World Earn Play Community (WEPC) </b> | SC Security [Audit Report](w/wepc/WEPC-audit-report-[18-Jul-2024].pdf) | Solidity | Ethereum | 18 Jul 2024 | | [Case]() |
 
 ## Cases 2023
 

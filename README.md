@@ -14,21 +14,25 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>Blockus (NFT for Skale)</b> | SC Security Audit Report (Confidential) | Solidity | Skale | 31 May 2024 |  |  |
 | <b>Blockus (NFT for Sui)</b> | SC Security [Audit Report](b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf) | Move | Sui | 11 Mar 2024 | 21 Mar 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-blockus/) |
 | <b>Blockus (Splitter)</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 14 Apr 2024 |  |  |
+| <b>Brainstarter</b> | SC Security [Audit Report](b/brainstarter/BrainStarter-audit-report-[28-Aug-2024].pdf) | Solidity | Polygon | 28 Aug 2024 |  |  |
 | <b>Digital Original</b> | SC Security [Audit Report](d/digitaloriginal/DigitalOriginal-audit-report-[28-Jun-2024].pdf) | Solidity | Ethereum | 28 Jun 2024 |  |  |
-| <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case]() |
+| <b>Drosera</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 30 Aug 2024 |  |  |
+| <b>Dusk networking protocol: Kadcast</b> | Blockchain Protocol [Audit Report](d/dusk/Kadcast-(by-Dusk)-audit-report-[17-Apr-2024]_compressed.pdf) | Rust | Dusk | 11 Apr 2024 | 22 Apr 2024 | [Case](https://blaize.tech/clients/security-audit-for-kadcast-dusk-networking-protocol/) |
 | <b>E Money (by Scallop)</b> | SC Security Review (Confidential) | Solidity | Polygon | 16 Apr 2024 |  |  |
-| <b>E Money Network (by Scallop)</b> | Blockchain Protocol [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
-| <b>E Money Network (by Scallop)</b> | Post-audit patching - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
-| <b>E Money Network (by Scallop)</b> | Secure CI/CD Integration - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jun 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Blockchain Protocol [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jul 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Post-audit patching - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jul 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
+| <b>E Money Network (by Scallop)</b> | Secure CI/CD Integration - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jul 2024 | [Case](https://blaize.tech/clients/security-services-for-e-money-network-blockchain/) |
 | <b>E Money Network (by Scallop)</b> | Patching by Security Team (Confidential) | Golang | Cosmos, Evmos | 27 Jun 2024 | | |
-| <b>Karrat</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Apr 2024 |  |  |
-| <b>LFIT</b> | SC Security [Audit Report](l/lfit/LFIT-audit-report-[21-Jun-2024].pdf) | Solidity | Klaytn | 21 Jun 2024 | 25 Jun 2024 |  |
+| <b>Karrat (DAO) </b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 15 Apr 2024 |  |  |
+| <b>Karrat (Marketplace) </b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 10 Sep 2024 |  |  |
+| <b>LFIT</b> | SC Security [Audit Report](l/lfit/LFIT-audit-report-[21-Jun-2024].pdf) | Solidity | Klaytn | 21 Jun 2024 | 25 Jun 2024 | |
+| <b>LFIT</b> | V2 SC Security [Audit Report](l/lfit/LFIT-audit-report-v2-[30-Aug-2024].pdf) | Solidity | Polygon | 30 Aug 2024 | | |
 | <b>Rampstater (by Wallek)</b> | SC Security Audit Report (Confidential) | Solidity | Fantom | 14 Jun 2024 |  | Case (Confidential) |
 | <b>Rumi</b> | SC Security Audit Report (Confidential) | Solidity | Arbitrum | 28 Feb 2024 |  | Case (Confidential) |
 | <b>Smoofs</b> | SC Security Audit Report (Confidential) | Solidity | Polygon | 25 Mar 2024 | 29 Mar 2024 | Case (Confidential) |
 | <b>Smoofs</b> | Patching by Security Team (Confidential) | Solidity | Polygon | 2 Apr 2024 | | Case (Confidential) |
 | <b>StarkDeFi (Locker)</b> | SC Security [Audit Report](s/starkdefi/StarkDeFi-Locker-audit-report-[19-Feb-2024].pdf) | Cairo | StarkNet | 16 Feb 2024 | 20 Feb 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-starkdefis-liquidity-locker/) |
-| <b>World Earn Play Community (WEPC) </b> | SC Security [Audit Report](w/wepc/WEPC-audit-report-[18-Jul-2024].pdf) | Solidity | Ethereum | 18 Jul 2024 | | [Case]() |
+| <b>World Earn Play Community (WEPC) </b> | SC Security [Audit Report](w/wepc/WEPC-audit-report-[18-Jul-2024].pdf) | Solidity | Ethereum | 18 Jul 2024 | 26 Jul 2024 | [Case](https://blaize.tech/clients/smart-contract-security-audit-for-wepc/) |
 
 ## Cases 2023
 

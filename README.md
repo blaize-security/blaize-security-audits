@@ -9,9 +9,11 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 ## Cases 2024
 | Name      | Link to the report | Language | Blockchain |   Report date   | Publication date | Case |
 | --------- |:------------------:| -------- |:----------:|:---------------:|:----------------:|:----:|
-| <b>Alfred</b> | V3 SC Security Audit Report (Confidential) | Solidity | Ethereum | 30 Jan 2023 |  | Case (Confidential) |
+| <b>Alfred</b> | V3 SC Security Audit Report (Confidential) | Solidity | Ethereum | 30 Jan 2023 |  |  |
+| <b>AMGI</b> (Staking) | SC Security Audit Report (Confidential) | Solidity | Ethereum | 21 Nov 2023 |  |  |
 | <b>AraFi</b> | Post-audit services (patching and deployment curation) (Confidential) | Solidity | Arbitrum | 20 Sep 2024 |  |  |
-| <b>Avax Apes</b> | SC Security [Audit Report](a/avaxapes/AvaxApes-Audit-Report-[25-Jan-2024].pdf) | Solidity | Avalanche | 25 Jan 2024 | 31 Jan 2024 | Case (Confidential) |
+| <b>AMGI</b> (Staking) | SC Security Audit Report (Confidential) | Solidity | Ethereum | 21 Nov 2023 |  |  |
+| <b>Aut Labs</b> (RepFi token suite) | SC Security [Audit Report](a/autlabs/Aut-Labs-(token-repfi)-audit-report-[4-Dec-2024].pdf) | Solidity | Ethereum | 4 Dec 2024 | | |
 | <b>Blockus (NFT for Skale)</b> | SC Security Audit Report (Confidential) | Solidity | Skale | 31 May 2024 |  |  |
 | <b>Blockus (NFT for Sui)</b> | SC Security [Audit Report](b/blockus/Blockus-(Sui)-audit-report-[12-Mar-2024].pdf) | Move | Sui | 11 Mar 2024 | 21 Mar 2024 | [Case](https://security.blaize.tech/clients/smart-contract-security-audit-for-blockus/) |
 | <b>Blockus (Splitter)</b> | SC Security Audit Report (Confidential) | Solidity | Ethereum | 14 Apr 2024 |  |  |
@@ -25,7 +27,7 @@ Check news on Blaize Security [twitter account](https://twitter.com/BlaizeSecuri
 | <b>E Money Network (by Scallop)</b> | Blockchain Protocol [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 7 Jun 2024 | 4 Jul 2024 | [Case](https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/) |
 | <b>E Money Network (by Scallop)</b> | Post-audit patching - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jul 2024 | [Case](https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/) |
 | <b>E Money Network (by Scallop)</b> | Secure CI/CD Integration - added to [Audit Report](e/emoneynetwork/Emoney-audit-report-[7-Jun-2024]_compressed.pdf) | Golang | Cosmos, Evmos | 31 May 2024 | 4 Jul 2024 | [Case](https://security.blaize.tech/clients/security-services-for-e-money-networklt-blockchain/) |
-| <b>E Money Network (by Scallop)</b> | Module preparing by Security Team (Confidential) | Golang | Cosmos, Evmos | 27 Jun 2024 | | |
+| <b>E Money Network (by Scallop)</b> | KYB Module preparing by Security Team (Confidential) | Golang | Cosmos, Evmos | 27 Jun 2024 | | |
 | <b>E Money Network (by Scallop)</b> | Post-audit patching by Security Team (Confidential) | Golang | Cosmos, Evmos | 30 Oct 2024 | | |
 | <b>Gini (by Kalp)</b> | SC Security Review (Confidential) | Solidity | Ethereum | 9 Sep 2024 |  |  |
 | <b>Grass </b> | SC Security Audit Report (Confidential) | Rust | Solana | 21 Oct 2024 |  |  |
